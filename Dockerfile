@@ -10,7 +10,7 @@ RUN apt-get update \
 WORKDIR /tmp
 ADD https://github.com/GuntharDeNiro/BTCT/releases/download/${GUNBOT_VERSION}/lin.zip .
 
-RUN unzip lin.zip \
+RUN unzip -q lin.zip \
  && rm -rf lin.zip \
  && rm -rf __MACOSX \
  && mv lin /gunbot \
