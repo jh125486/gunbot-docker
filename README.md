@@ -1,7 +1,7 @@
 # Gunbot Docker image
 
 [![Docker Stars](https://img.shields.io/docker/stars/jh125486/gunbot-docker.svg)](https://hub.docker.com/r/jh125486/gunbot-docker/)
-[![Docker Pulls](https://img.shields.io/docker/stars/jh125486/gunbot-docker.svg)](https://hub.docker.com/r/jh125486/gunbot-docker/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/jh125486/gunbot-docker.svg)](https://hub.docker.com/r/jh125486/gunbot-docker/)
 
 Non-official Gunbot image [available on Docker Hub](https://hub.docker.com/r/jh125486/gunbot-docker/).
 
